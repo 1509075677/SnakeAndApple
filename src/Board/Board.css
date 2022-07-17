@@ -1,0 +1,21 @@
+.board{
+    margin-top: 100px;
+}
+
+.row{
+    height:40px;
+}
+
+.cell{
+    width:40px;
+    height:40px;
+    outline: 1px solid #4d5caf3f;
+    display: inline-block
+}
+
+.snake{
+    background-color:rgb(122, 197, 122);
+}
+.apple{
+    background-color: rgb(223, 39, 39);
+}

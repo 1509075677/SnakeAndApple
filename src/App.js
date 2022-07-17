@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Board from './Board/Board.js';
 
 function App() {
   return (
     <div className="App">
-      SNAKE AND APPLE
+      <Board></Board>
     </div>
   );
 }
