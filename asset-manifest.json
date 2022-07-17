@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/SnakeAndApple/static/css/main.1d766016.css",
-    "main.js": "/SnakeAndApple/static/js/main.428a5f1c.js",
-    "static/js/787.6a541d2d.chunk.js": "/SnakeAndApple/static/js/787.6a541d2d.chunk.js",
+    "main.css": "/SnakeAndApple/static/css/main.ca9ac67f.css",
+    "main.js": "/SnakeAndApple/static/js/main.e747b41b.js",
     "index.html": "/SnakeAndApple/index.html",
-    "main.1d766016.css.map": "/SnakeAndApple/static/css/main.1d766016.css.map",
-    "main.428a5f1c.js.map": "/SnakeAndApple/static/js/main.428a5f1c.js.map",
-    "787.6a541d2d.chunk.js.map": "/SnakeAndApple/static/js/787.6a541d2d.chunk.js.map"
+    "main.ca9ac67f.css.map": "/SnakeAndApple/static/css/main.ca9ac67f.css.map",
+    "main.e747b41b.js.map": "/SnakeAndApple/static/js/main.e747b41b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d766016.css",
-    "static/js/main.428a5f1c.js"
+    "static/css/main.ca9ac67f.css",
+    "static/js/main.e747b41b.js"
   ]
 }
