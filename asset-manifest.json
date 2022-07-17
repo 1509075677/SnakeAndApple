@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SnakeAndApple/static/css/main.ca9ac67f.css",
-    "main.js": "/SnakeAndApple/static/js/main.e747b41b.js",
+    "main.js": "/SnakeAndApple/static/js/main.b25ce9da.js",
     "index.html": "/SnakeAndApple/index.html",
     "main.ca9ac67f.css.map": "/SnakeAndApple/static/css/main.ca9ac67f.css.map",
-    "main.e747b41b.js.map": "/SnakeAndApple/static/js/main.e747b41b.js.map"
+    "main.b25ce9da.js.map": "/SnakeAndApple/static/js/main.b25ce9da.js.map"
   },
   "entrypoints": [
     "static/css/main.ca9ac67f.css",
-    "static/js/main.e747b41b.js"
+    "static/js/main.b25ce9da.js"
   ]
 }
